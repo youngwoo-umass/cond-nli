@@ -3,7 +3,7 @@ This repository contains the BioClaim dataset and implementations for the EMNLP 
 
 # BioClaim
 
-[BioClaim Dataset](BioClaim\README.md)
+[BioClaim Dataset](BioClaim/README.md)
 
 # Cond-nli
 
