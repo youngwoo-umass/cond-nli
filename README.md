@@ -7,6 +7,6 @@ This repository contains the BioClaim dataset and implementations for the EMNLP 
 
 ## Code
 
-[Implementations](code\README.md)
+[Implementations](code/README.md)
 
 Implementation for the PAT model introduced in the EMNLP 2023 paper Conditional Natural Langauge Inference.
