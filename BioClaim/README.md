@@ -57,6 +57,7 @@ The BioClaim dataset is an extension of an existing dataset.
 # To cite this dataset
 
 Please cite our paper in Findings of EMNLP 2023, titled "Conditional Natural Langauge Inference"
+<pre>
 @inproceedings{kim-etal-2023-conditional,
     title = "Conditional Natural Language Inference",
     author = "Kim, Youngwoo  and
@@ -70,6 +71,7 @@ Please cite our paper in Findings of EMNLP 2023, titled "Conditional Natural Lan
     url = "https://aclanthology.org/2023.findings-emnlp.456",
     pages = "6833--6851",
 }
+</pre>
 
 # License
 
